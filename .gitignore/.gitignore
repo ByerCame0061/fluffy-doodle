@@ -1,0 +1,135 @@
+{
+        "name": "Geolibertarianism/Bleeding-Heart Libertarianism",
+        "stats": {
+            "econ": 30,
+            "dipl": 60,
+            "govt": 80,
+            "scty": 80
+        }
+    },
+    {
+        "name": "National Anarchism",
+        "stats": {
+            "econ": 60,
+            "dipl": 20,
+            "govt": 100,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Anarcho-Primitivism",
+        "stats": {
+            "econ": 100,
+            "dipl": 60,
+            "govt": 100,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Christian Democracy",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 30
+            "scty": 20
+        }
+    },
+    {
+        "name": "Stalinism/Maoism",
+        "stats": {
+            "econ": 100,
+            "dipl": 20,
+            "govt": 0,
+            "scty": 60
+        }
+    },
+    {
+        "name": "Libertarian Conservatism",
+        "stats": {
+            "econ": 20,
+            "dipl": 40,
+            "govt": 50,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Neoreactionism",
+        "stats": {
+            "econ": 0,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Greenism",
+        "stats": {
+            "econ": 70,
+            "dipl": 80,
+            "govt": 70,
+            "scty": 80
+        }
+    },
+    {
+        "name": "National Liberalism",
+        "stats": {
+            "econ": 50,
+            "dipl": 20,
+            "govt": 50,
+            "scty": 40
+        }
+    },
+    {
+        "name": "Anarcho-Collectivism",
+        "stats": {
+            "econ": 90,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 90
+        }
+    },
+    {
+        "name": "Minarchism",
+        "stats": {
+            "econ": 10,
+            "dipl": 50,
+            "govt": 90,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Voluntaryism",
+        "stats": {
+            "econ": 5,
+            "dipl": 50,
+            "govt": 95,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Paleolibertarianism",
+        "stats": {
+            "econ": 80,
+            "dipl": 40,
+            "govt": 60,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Stasserism",
+        "stats": {
+            "econ": 60,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
+        }
+    },
+   {
+        "name": "Left-Wing Nationalism",
+        "stats": {
+            "econ": 70,
+            "dipl": 20,
+            "govt": 60,
+            "scty": 40
+        }
+    },
